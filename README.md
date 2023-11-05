@@ -1,16 +1,6 @@
-# demtrav
+## TRAVEL BUD
+We're developing a group travel app where users can join or create travel groups. The app supports collaborative planning with itinerary and chat features. Users can track expenses, and cost allocations are based on their preferred group activities.
 
-A new Flutter project.
+# Building of our app
+We have used figma for webframing at first then later started working on flutter to develop the app.We have used Firebase for authentication and cloud storage of users data.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643308370290",
+    "project_id": "travdem-850b0",
+    "storage_bucket": "travdem-850b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643308370290:android:4de89aaa36427f921645eb",
+        "android_client_info": {
+          "package_name": "com.example.demtrav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXu4FPkLmai2u4_3c1CtL7kIYeyOQh9II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
